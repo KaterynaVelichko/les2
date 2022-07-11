@@ -1,0 +1,93 @@
+body, .input, .btn{
+    font-family: 'Montserrat', sans-serif;
+color: black;
+}
+
+.container, .picture, .inpt_placeholder, .inpt_radio, .inpt_radio_choose, .select, .agree, .button, .video{
+   width: 1000px;
+   margin: 0 auto;
+}
+.logo{
+    width: 100px;
+    height: 38.36px;
+    left: 220px;
+    top: 16px;
+    margin-bottom: 15px;
+}
+
+.nav{
+   display: inline-block;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 22px;
+   letter-spacing: 0.02em;
+   padding: 0px;
+   }
+
+ .nav_li{
+    display: inline-block;
+    margin-left: 26px;
+    margin-bottom: 47px;
+    padding: 0 auto;
+ }
+ .nav_li:first-child{margin-left: 0px;}
+
+ .nav_link{
+   display: inline-block;
+    color: black;
+    text-decoration: none;
+    padding: 0 auto;
+ }
+ 
+
+
+ .picture{
+    margin-bottom: 48px;
+ }
+
+ .placeholder{
+  
+  margin-bottom: 10px;
+ }
+
+ 
+
+ .input{
+    background: #C4C4C4;
+    color: black;
+    border: none;
+    width: 183px;
+    height: 27px;
+    left: 220px;
+    top: 500px;
+    font-weight: 400;
+   font-size: 14px;
+   line-height: 17px;
+   letter-spacing: 0.02em;
+
+color: #000000;
+ }
+
+ .inpt_radio_choose{
+   margin-bottom: 20px;
+ }
+
+ .agree{
+   margin-bottom: 7px;
+ }
+
+ .select{
+    margin-bottom: 9px;
+ }
+
+ .btn{
+   width: 142px;
+   height: 28px;
+   background: #C4C4C4;
+    border: none;
+    margin-bottom: 37px;
+    margin-left: 14px;
+    padding: 5px, 35px;
+ }
+ 
